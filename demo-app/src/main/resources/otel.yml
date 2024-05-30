@@ -1,0 +1,6 @@
+otel:
+  exporter:
+    otlp:
+      endpoint: "http://localhost:4318"
+  service:
+    name: "ctrl-alt-defeat"
