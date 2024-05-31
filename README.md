@@ -1,4 +1,4 @@
-Requirements:
+Requirements (for sample app):
 
 -   JDK 21+
 -   Maven 3.8+
@@ -34,3 +34,9 @@ Sample App
 ```
 java -javaagent:lib/opentelemetry-javaagent.jar -Dotel.javaagent.configuration-file=src/main/resources/otel.yml -jar target/hackathon-0.0.1-SNAPSHOT.jar --debug
 ```
+
+Grafana
+
+-   Download Grafana from: https://dl.grafana.com/oss/release/grafana-11.0.0.windows-amd64.msi
+-   Use the installer to install Grafana
+-   Run the executable `grafana-server.exe` to start Grafan
