@@ -1,9 +1,11 @@
-Requirements (for sample app):
+# Ctrl Alt Defeat's Grafana Dashboard
+
+## Requirements (for sample app):
 
 -   JDK 21+
 -   Maven 3.8+
 
-Installing & Running everything
+## Installing & Running Everything
 
 OpenTelemetry Collector Contrib
 
@@ -42,3 +44,11 @@ Grafana
 -   Run the executable `grafana-server.exe` to start Grafana
 
 Open Grafana at localhost:3000. Then, open Home > Dashboard and click **New**, then click **Import**. Upload the `dashboard.json` file included in this repository to import the project dashboard.
+
+## Architecture Overview
+
+![Architecture Overview](/images/architecture-overview.png?raw=true)
+
+## Dashboard Preview
+
+![Dashboard Preview](/images/dashboard-preview.png?raw=true)
