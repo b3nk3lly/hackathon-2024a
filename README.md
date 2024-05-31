@@ -39,4 +39,4 @@ Grafana
 
 -   Download Grafana from: https://dl.grafana.com/oss/release/grafana-11.0.0.windows-amd64.msi
 -   Use the installer to install Grafana
--   Run the executable `grafana-server.exe` to start Grafan
+-   Run the executable `grafana-server.exe` to start Grafana
