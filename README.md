@@ -1,5 +1,13 @@
 # Ctrl Alt Defeat's Grafana Dashboard
 
+## Architecture Overview
+
+![Architecture Overview](/images/architecture-overview.png?raw=true)
+
+## Dashboard Preview
+
+![Dashboard Preview](/images/dashboard-preview.png?raw=true)
+
 ## Requirements (for sample app):
 
 -   JDK 21+
@@ -44,11 +52,3 @@ Grafana
 -   Run the executable `grafana-server.exe` to start Grafana
 
 Open Grafana at localhost:3000. Then, open Home > Dashboard and click **New**, then click **Import**. Upload the `dashboard.json` file included in this repository to import the project dashboard.
-
-## Architecture Overview
-
-![Architecture Overview](/images/architecture-overview.png?raw=true)
-
-## Dashboard Preview
-
-![Dashboard Preview](/images/dashboard-preview.png?raw=true)
