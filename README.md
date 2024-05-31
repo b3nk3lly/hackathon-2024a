@@ -7,7 +7,7 @@ Installing & Running everything
 
 OpenTelemetry Collector Contrib
 
--   Download the OpenTelemetry Collector Contrib executable from: https://github.com/open-telemetry/opentelemetry-collector-releases/releases/download/v0.101.0/otelcol-contrib_0.101.0_windows_amd64.tar.gz.sig
+-   Download the OpenTelemetry Collector Contrib executable from: https://github.com/open-telemetry/opentelemetry-collector-releases/releases/download/v0.101.0/otelcol-contrib_0.101.0_windows_amd64.tar.gz
 -   Extract into `otelcol/`
 -   Run `otelcol-contrib.bat`
 
