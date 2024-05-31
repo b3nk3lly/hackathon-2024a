@@ -40,3 +40,5 @@ Grafana
 -   Download Grafana from: https://dl.grafana.com/oss/release/grafana-11.0.0.windows-amd64.msi
 -   Use the installer to install Grafana
 -   Run the executable `grafana-server.exe` to start Grafana
+
+Open Grafana at localhost:3000. Then, open Home > Dashboard and click **New**, then click **Import**. Upload the `dashboard.json` file included in this repository to import the project dashboard.
